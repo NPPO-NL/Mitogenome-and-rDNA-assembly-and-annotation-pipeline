@@ -20,6 +20,6 @@ The .xml files found in this repository are CLC External Application files which
 
 
 Please note: 
-	CEA001 calls upon no Python script, but calls upon the BLAST+ program which can be downloaded from: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
-	CEA005 calls upon no Python script, but calls upon the KronaTools program, which can be downloaded from: https://github.com/marbl/Krona/tree/master/KronaTools
-	Make sure that all installation criteria are met for all CEAs. 
+CEA001 calls upon no Python script, but calls upon the BLAST+ program which can be downloaded from: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+CEA005 calls upon no Python script, but calls upon the KronaTools program, which can be downloaded from: https://github.com/marbl/Krona/tree/master/KronaTools
+Make sure that all installation criteria are met for all CEAs. 
