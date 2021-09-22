@@ -6,7 +6,7 @@ We created an Illumina sequencing pipeline in CLC genomics workbench for the ass
 This repository is created for sharing scripts and environments related to the Mitogenome and rDNA assembly and annotation pipeline.
 The mtDNA and rDNA assembly and annotation pipeline is built in CLC Genomics Workbench. Therefore, not all modules are self written scripts. 
 The scripts that were developed for this project, the so called CLC External Applications (CEAs) are included in this repository.
-More information on CEAs can be found on: https://github.com/NPPO-NL/CLC-External-Applications.
+More information on CEAs and installation criteria can be found on: https://github.com/NPPO-NL/CLC-External-Applications.
 
 <h2>The CEAs used for creating the Mitogenome and rDNA assembly and annotation pipeline are: </h2>
 
