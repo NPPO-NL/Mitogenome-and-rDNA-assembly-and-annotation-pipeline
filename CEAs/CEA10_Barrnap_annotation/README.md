@@ -7,6 +7,8 @@ input: path to .fasta file, output: path to output, kingdom: kingdom to use for 
 The script is ran by the command 
 python CEA010_Barrnap_annotation <input> <output> <kingdom>
 
+Please make sure Barrnap is installed.  
+
 For more information on Barrnap, please visit: https://github.com/tseemann/barrnap
 
 # CEA010_Barrnap_annotation
