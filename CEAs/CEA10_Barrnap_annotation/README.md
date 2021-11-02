@@ -1,3 +1,5 @@
+# CEA010_Barrnap_annotation
+
 This script is written in python 3.x
 This python module annotates rDNA sequences with the help of the Barrnap command line tool and produces a .gff as output.
 
@@ -11,5 +13,5 @@ Please make sure Barrnap is installed.
 
 For more information on Barrnap, please visit: https://github.com/tseemann/barrnap
 
-# CEA010_Barrnap_annotation
+
 
