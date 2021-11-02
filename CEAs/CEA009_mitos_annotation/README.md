@@ -1,4 +1,6 @@
-Function: executing mitos with multi-fasta files and creating a multi record gbk >
+<h1>CEA009_mitos_annotation</h1>
+
+Function: executing mitos with multi-fasta files and creating a multi record gbk
 Usage: CEA009_mitos_gbk.py {multi-fasta} {genetic_code} {gbk_output}
 
 Parameter explanation:
