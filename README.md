@@ -13,13 +13,15 @@ More information on CEAs and installation criteria can be found on: https://gith
  - CEA001_BLASTn *
  - CEA004_Select_sequences_based_on_BLAST_hits
  - CEA005_Krona *
- - CEA009_mitos_annotation
- - CEA010_barrnap_annotation 
+ - CEA009_mitos_annotation #
+ - CEA010_barrnap_annotation # 
  - CEA011_gff_to_gbk
 
-CEAs marked with "*" have no github page and are third party software. 
+CEAs marked with "*" call solely upon third party software. 
+CEAs marked with "#" make use of third party software. 
 
-The .xml files found in this repository are CLC External Application files which can be imported and contain the command used for running the CEA.
+
+The .xml file(s) found in this repository are CLC External Application files which can be imported and contain the command used for running the CEA.
 
 
 <h2>Please note:</h2>
